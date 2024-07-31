@@ -1,0 +1,8 @@
+I. Generating city layouts:
+	1. OpenStreetMap - Download datasets. (.osm)
+	2. Data Preprocessing
+	3. Training using NTG Model, Procedural generation
+II. Integrating prompt input feed
+	1. Pretrained LLMs
+	2. Filtering mechanism/ Reranking
+	3. 
